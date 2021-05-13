@@ -1,0 +1,26 @@
+.shop{
+    width: 100%;
+    background: url("../images/shop-bg.png");
+    height: 450px;
+    background-attachment: fixed;
+}
+.shop__text{
+    height: 450px;
+    display: flex;
+    align-items: center;
+    width: 400px;
+    justify-content: center;
+    margin: 0 auto;
+}
+.shop__text h3{
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+.shop__btn{
+    margin-top: 35px;
+    margin-left: 100px;
+}

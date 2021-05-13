@@ -1,0 +1,45 @@
+.brand{
+    color: #407BFF;
+    padding: 80px 0;
+}
+.p-25{
+    padding: 45px;
+}
+.row{
+    width: 100%;
+    display: flex;
+}
+.col-6{
+    width: 50%;   
+}
+.col-6{
+    width: 50%;
+}
+.brand h3{
+    color: rgba(37, 37, 37, 0.7);
+    font-size: 30px;
+    margin-bottom: 12px;
+    font-weight: 700;
+}
+.brand h1{
+    font-size: 40px;
+    color: #252525;
+    font-weight: 700;
+    line-height: 40px;
+    margin-bottom: 15px;
+}
+.brand p{
+    font-size: 18px;
+    font-weight: 300;
+}
+.brand__btn{
+    margin-top: 35px;
+}
+.brand__img{
+    width: 100%;
+    overflow: hidden;
+    margin-left: 90px;
+}
+.brand__img img{
+    width: 70vh;
+}

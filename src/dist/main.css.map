@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["main.scss"],"sourcesContent":["//components files\r\n@import './SASS/_header';\r\n@import './SASS/_navbar';\r\n@import './SASS/_about';\r\n@import './SASS/_scrollbar';\r\n@import './SASS/_shop';\r\n@import './SASS/_menu';\r\n@import './SASS/_clients';\r\n@import './SASS/_services';\r\n@import './SASS/_footer';"],"file":"main.css"}
