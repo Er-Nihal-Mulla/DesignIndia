@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DesignIndia/static/css/main.35bf3fcb.chunk.css",
+    "main.js": "/DesignIndia/static/js/main.3e2209b7.chunk.js",
+    "main.js.map": "/DesignIndia/static/js/main.3e2209b7.chunk.js.map",
+    "runtime-main.js": "/DesignIndia/static/js/runtime-main.f649c26b.js",
+    "runtime-main.js.map": "/DesignIndia/static/js/runtime-main.f649c26b.js.map",
+    "static/js/2.1b92ee6e.chunk.js": "/DesignIndia/static/js/2.1b92ee6e.chunk.js",
+    "static/js/2.1b92ee6e.chunk.js.map": "/DesignIndia/static/js/2.1b92ee6e.chunk.js.map",
+    "index.html": "/DesignIndia/index.html",
+    "static/css/main.35bf3fcb.chunk.css.map": "/DesignIndia/static/css/main.35bf3fcb.chunk.css.map",
+    "static/js/2.1b92ee6e.chunk.js.LICENSE.txt": "/DesignIndia/static/js/2.1b92ee6e.chunk.js.LICENSE.txt",
+    "static/media/abt-right.2b501146.png": "/DesignIndia/static/media/abt-right.2b501146.png",
+    "static/media/main.scss": "/DesignIndia/static/media/shop-bg.a08448fc.png",
+    "static/media/brnd-left.a541ca5c.png": "/DesignIndia/static/media/brnd-left.a541ca5c.png",
+    "static/media/serv1-left.429feb9c.png": "/DesignIndia/static/media/serv1-left.429feb9c.png",
+    "static/media/serv2-right.15d112bd.png": "/DesignIndia/static/media/serv2-right.15d112bd.png",
+    "static/media/serv3-left.6626d0e7.png": "/DesignIndia/static/media/serv3-left.6626d0e7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f649c26b.js",
+    "static/js/2.1b92ee6e.chunk.js",
+    "static/css/main.35bf3fcb.chunk.css",
+    "static/js/main.3e2209b7.chunk.js"
+  ]
+}
